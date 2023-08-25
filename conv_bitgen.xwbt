@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\.Xilinx\convolution\conv.ncd
+OUTFILE=C:\.Xilinx\convolution\conv.bit
+FAMILY=Spartan6
+PART=xc6slx9-3tqg144
+WORKINGDIR=C:\.Xilinx\convolution
+LICENSE=WebPack
+USER_INFO=__0_0_0

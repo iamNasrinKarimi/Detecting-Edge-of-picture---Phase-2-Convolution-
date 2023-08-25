@@ -1,0 +1,21 @@
+Release 14.7 Drc P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Wed Jan 06 18:07:33 2021
+
+drc -z conv.ncd conv.pcf
+
+WARNING:PhysDesignRules:367 - The signal <Mram_x_23_RAMD_D1_O> is incomplete.
+   The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal <Mram_x_211_RAMD_D1_O> is incomplete.
+   The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal <Mram_x_221_RAMD_D1_O> is incomplete.
+   The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal <Mram_x_011_RAMD_D1_O> is incomplete.
+   The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal <Mram_x_03_RAMD_D1_O> is incomplete.
+   The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal <Mram_x_021_RAMD_D1_O> is incomplete.
+   The signal does not drive any load pins in the design.
+DRC detected 0 errors and 6 warnings.  Please see the previously displayed
+individual error or warning messages for more details.
